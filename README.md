@@ -1,4 +1,4 @@
-# Drowsiness-Detection
+# Drowsiness Detection Web app
 Prevents sleep deprivation road accidents, by alerting drowsy drivers. Nowadays it can also be used in self driving car so that it can alert the driver.
 In this project, we have trained a convolutional neural network, to determine whether the eyes are closed or not, further, eye-patches are extracted from the face image to make all predictions. The dataset used for the training process can be accessed from the link given below: 
 <br><a href="https://www.kaggle.com/kutaykutlu/drowsiness-detection" target="_blank">https://www.kaggle.com/kutaykutlu/drowsiness-detection.</a>
