@@ -40,4 +40,5 @@ This model is trained with the help of TensorFlow and is based upon convolutiona
 ## Eye Patch Extractor & Predictor Insights
   This model uses OpenCV's "Haar Cascade Classifier" for face detection and after the proposal of the region of interest, it extracts the eye patch by the "Centroid Method" developed by us. These extracted features will be then passed to the trained model for Drowsiness Detection.
 
+
 #### Made with ♥️ by [Siddharth Maratha](https://github.com/siddharthmaratha)
